@@ -1,0 +1,31 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@availity/api-axios": "3.0.1",
+    "@availity/api-core": "3.0.0",
+    "@availity/form": "0.5.32",
+    "@availity/localstorage-core": "2.6.1",
+    "@availity/select": "0.17.4",
+    "@availity/yup": "3.0.8",
+    "@babel/runtime": "^7.12.5",
+    "axios": "0.19.2",
+    "formik": "2.2.6",
+    "moment": "2.29.1",
+    "react": "17.0.0",
+    "react-dom": "17.0.0",
+    "react-router-dom": "5.2.0",
+    "reactstrap": "8.8.0",
+    "yup": "0.32.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
